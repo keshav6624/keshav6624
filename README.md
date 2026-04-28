@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hey, I'm Keshav 👋
+# I'm Keshav
 
 I'm a passionate developer who enjoys building impactful digital experiences while exploring the potential of Data Science and Machine Learning. I’m driven by curiosity and a desire to create solutions that combine code, data, and intelligence.
 
