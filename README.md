@@ -30,6 +30,6 @@ I’m focused on growing as both a developer and a data enthusiast:
 
 ## 📫 Contact
 
-Open to collaboration and opportunities in Development, Data Science, and Machine Learning. Connect with me on GitHub.
+Open to collaboration and opportunities in Development, Data Science, and Machine Learning. Connect with me on Linkedin.
 
 💡 "Build with purpose. Learn with curiosity."
